@@ -26,17 +26,17 @@ author:
   pronouns         : # example: " "  
   bio              : "MPhil, DPhil Economics cadidate at University of Oxford"
   location         : "Oxford, UK"
-  employer         : "New College, University of Oxford"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "dheeraj.singh@economics.ox.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # Username 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # Username 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # Username 
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
