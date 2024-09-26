@@ -9,7 +9,7 @@ redirect_from:
 
 I am an M.Phil-D.Phil. candidate in Economics at University of Oxford and a member of New College. Mathematics has been my primary love, so I pursued my bachelors (BS Mathematics) at Iowa State University and masters (MSc Applied Mathematics) at Imperial College London. I intent on applying mathematical theory to solve complex problems in economics, as a result of which I am currently pursuing a post-graduate doctorate degree (PhD Economics) at the University of Manchester.
 
-My non-academic interests include Geopolitics, History, and Anthropology. My range of music spans as wide as oceans, ranging from hip-hop to country music, Jazz to Rock, Spanish to Mongolian, Pubjabi to Bhojpuri, Lata Mangeshkar to Alka Yagnik, Kishore Kumar to Kumar Sanu, Honey Singh to Gurdass Mann, and contemporary Hindi music to classical Indian music.
+
 
 My Interests 
 ======
@@ -22,4 +22,4 @@ D.Phil. Economics, University of Oxford (2027)\
 M.Phil. Economics, University of Oxford (2025)\
 M.Sc. Economics, University of Manchester (2023)\
 M.Sc. Applied Mathematics, Imperial College London (2021)\
-B.S. Mathematucs, Iowa State University (2019)\
+B.S. Mathematucs, Iowa State University (2019)
