@@ -18,8 +18,8 @@ My research interests lie primarily in applied microeconomics with application t
 
 Education 
 ======
-D.Phil. Economics, University of Oxford (2027)
-M.Phil. Economics, University of Oxford (2025)
-M.Sc. Economics, University of Manchester (2023)
-M.Sc. Applied Mathematics, Imperial College London (2021)
-B.S. Mathematucs, Iowa State University (2019)
+D.Phil. Economics, University of Oxford (2027)\\
+M.Phil. Economics, University of Oxford (2025)\\
+M.Sc. Economics, University of Manchester (2023)\\
+M.Sc. Applied Mathematics, Imperial College London (2021)\\
+B.S. Mathematucs, Iowa State University (2019)\\
